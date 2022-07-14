@@ -57,7 +57,7 @@ Fully remote work within the EU or high flexibility between mobile work and an o
 - Flexible and family-friendly working conditions
 - Regular events of all sorts in a familiar atmosphere
  
-Interested? Then contact us now!
+### Interested? Then contact us now!
 
 You can get insights about working@tribe29 at: www.kununu.com/de/tribe29
 
