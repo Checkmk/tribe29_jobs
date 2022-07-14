@@ -10,12 +10,12 @@ thousands of users worldwide. By working closely with this community, we ensure 
 Our offices are located in the heart of Munich, in Haidhausen, a district known for its many cafés, restaurants, bars, and small shops. To enable our high growth, we 
 are looking for a
 
-## Software Test Automation Engineer (m/f/d)
+# Software Test Automation Engineer (m/f/d)
 As a software test automation engineer, you are committed to topics such as test-driven development, CI/CD and software quality and you drive these forward. The goal 
 is to further improve our software quality and enable faster testing. At the same time, as a Python developer, you will be involved in the software development of our 
 monitoring solution Checkmk.
 
-Your Tasks
+### Your Tasks
 You advise the development team regarding test methods
 You support the definition and implementation of test and automation methods
 You take responsibility for the further integration of our test framework with the CI
@@ -23,7 +23,7 @@ You help to establish a framework to support developers in building automated fu
 You work hand in hand with other developers to build automated test and spread the word about the test mechanisms which are available
 You help improving our automated functional testing coverage by using the best fitting test mechanism (E2E, system tests, integration tests)
  
-Your Profile
+### Your Profile
 You have experience in test automation
 You have experience as a backend developer with Python
 You have several years of professional experience in the development of larger software projects
@@ -35,7 +35,7 @@ You enjoy contact with customers and users
 Business fluent in written and spoken English. Know-how or interest in learning German is a plus but not required
 Knowledge in IT infrastructure and application monitoring with open source or commercial software products is a plus
  
-We offer
+### We offer
 We are a dynamic, fast growing and easy-going company where positive collaboration is very important. We are more than just colleagues; we have a strong team and a 
 great customer community. For us, high autonomy and flat hierarchies are not just words on paper, but everyday life. With us you don’t work as one of hundreds or on 
 purely theoretical questions but have an immediate positive influence.
@@ -53,7 +53,7 @@ A wide range of education and training opportunities
 Flexible and family-friendly working conditions
 Regular events of all sorts in a familiar atmosphere
  
-Interested? Then contact us now!
+### Interested? Then contact us now!
 
 You can get insights about working@tribe29 at: www.kununu.com/de/tribe29
 
