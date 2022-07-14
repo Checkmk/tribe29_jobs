@@ -57,11 +57,4 @@ Interested? Then contact us now!
 
 You can get insights about working@tribe29 at: www.kununu.com/de/tribe29
 
-Contact:
-tribe29 GmbH
-Oliver Gronwald
-Kellerstraße 29
-81667 Munich
-
-+49 (0)89 9982 097 64
-jobs@tribe29.com
+Contact: jobs@tribe29.com
