@@ -11,7 +11,6 @@ Our offices are located in the heart of Munich, in Haidhausen, a district known 
 are looking for a
 
 # Software Test Automation Engineer (m/f/d)
-
 As a software test automation engineer, you are committed to topics such as test-driven development, CI/CD and software quality and you drive these forward. The goal 
 is to further improve our software quality and enable faster testing. At the same time, as a Python developer, you will be involved in the software development of our 
 monitoring solution Checkmk.
